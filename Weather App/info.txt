@@ -1,0 +1,10 @@
+Set a card, add some css
+Input a search br with user input, a search button nd a location button
+Use icons and place holders to fill city name, desc, temp, humidity and wind speed
+API key from open weather
+link JS to id's on html
+update info by pulling data from the API
+location button pulls city name from user location
+inputs that location in to a search
+
+API key 595cfa94aad083309824df84d08adaa7
